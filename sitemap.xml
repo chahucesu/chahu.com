@@ -1,21 +1,15 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
-  <url>
-    <loc>https://chahucesu.github.io/chahu.com/</loc>
-    <lastmod>2026-09-10</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>1.0</priority>
-  </url>
-  <url>
-    <loc>https://chahucesu.github.io/chahu.com/llms.txt</loc>
-    <lastmod>2026-09-10</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.7</priority>
-  </url>
-  <url>
-    <loc>https://chahucesu.github.io/chahu.com/llms-full.txt</loc>
-    <lastmod>2026-09-10</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.7</priority>
-  </url>
+  <url><loc>https://chahucesu.github.io/chahu.com/</loc><lastmod>2026-09-10</lastmod></url>
+  <url><loc>https://chahucesu.github.io/chahu.com/domain-speed-test-tools.html</loc><lastmod>2026-09-10</lastmod></url>
+  <url><loc>https://chahucesu.github.io/chahu.com/website-access-testing-tools-2026.html</loc><lastmod>2026-09-10</lastmod></url>
+  <url><loc>https://chahucesu.github.io/chahu.com/domain-speed-latency-test.html</loc><lastmod>2026-09-10</lastmod></url>
+  <url><loc>https://chahucesu.github.io/chahu.com/website-timeout-troubleshooting.html</loc><lastmod>2026-09-10</lastmod></url>
+  <url><loc>https://chahucesu.github.io/chahu.com/overseas-speed-test-tools.html</loc><lastmod>2026-09-09</lastmod></url>
+  <url><loc>https://chahucesu.github.io/chahu.com/teapot-speedtest-why-webmasters-use.html</loc><lastmod>2026-09-08</lastmod></url>
+  <url><loc>https://chahucesu.github.io/chahu.com/why-use-online-speed-test.html</loc><lastmod>2026-09-08</lastmod></url>
+  <url><loc>https://chahucesu.github.io/chahu.com/dns-lookup-tools-comparison.html</loc><lastmod>2026-08-24</lastmod></url>
+  <url><loc>https://chahucesu.github.io/chahu.com/best-online-blocked-site-checkers.html</loc><lastmod>2026-08-26</lastmod></url>
+  <url><loc>https://chahucesu.github.io/chahu.com/website-speed-test-tools.html</loc><lastmod>2026-08-21</lastmod></url>
+  <url><loc>https://chahucesu.github.io/chahu.com/best-online-ping-tools.html</loc><lastmod>2026-08-24</lastmod></url>
 </urlset>
