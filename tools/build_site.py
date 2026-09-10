@@ -355,7 +355,7 @@ def render_header() -> str:
 <header class="site-header">
   <div class="header-inner">
     <a class="brand" href="{OFFICIAL_URL}/" aria-label="茶壶测速官网">
-      <span class="brand-mark">{icon("gauge")}</span>
+      <span class="brand-mark"><img src="assets/chahu-icon.png" width="32" height="32" alt=""></span>
       <span class="brand-name">茶壶测速<small>Chahu Network Tools</small></span>
     </a>
     <button class="nav-toggle" type="button" data-nav-toggle aria-label="打开菜单" aria-expanded="false">{icon("menu")}</button>
@@ -420,7 +420,8 @@ def render_document_head(
   <meta name="author" content="Chahu 团队">
   <meta name="theme-color" content="#0d100f">
   <link rel="canonical" href="{escape(canonical, quote=True)}">
-  <link rel="icon" href="https://www.chahu.com/favicon.ico?v=20260823">
+  <link rel="icon" href="assets/chahu-icon.png" type="image/png">
+  <link rel="apple-touch-icon" href="assets/chahu-icon.png">
   <meta property="og:locale" content="zh_CN">
   <meta property="og:type" content="{escape(page_type)}">
   <meta property="og:site_name" content="茶壶测速 Chahu">
@@ -448,7 +449,7 @@ def render_article_card(article: dict[str, object], index: int) -> str:
 
 
 def render_home(articles: list[dict[str, object]]) -> str:
-    title = "网站测速工具有哪些？2026 年 8 款常用工具推荐 | 茶壶测速"
+    title = "茶壶测速Chahu.com，互联网网站测速及在线监控基础设施"
     description = "茶壶测速站长知识库，汇总网站测速、域名延迟、在线 Ping、DNS 查询、访问超时与网站连通性检测实用文章。"
     grouped: dict[str, list[dict[str, object]]] = {}
     for article in articles:

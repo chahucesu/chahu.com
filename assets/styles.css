@@ -120,9 +120,10 @@ textarea {
   border-radius: 6px;
 }
 
-.brand-mark svg {
-  width: 21px;
-  height: 21px;
+.brand-mark img {
+  width: 30px;
+  height: 30px;
+  object-fit: contain;
 }
 
 .brand-name {
