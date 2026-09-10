@@ -1,7 +1,7 @@
 User-agent: *
 Allow: /
 
-Sitemap: https://chahucesu.github.io/-/sitemap.xml
+Sitemap: https://chahucesu.github.io/chahucesu01/sitemap.xml
 
 # Canonical product and article sources:
 # https://www.chahu.com/

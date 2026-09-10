@@ -1,19 +1,19 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   <url>
-    <loc>https://chahucesu.github.io/-/</loc>
+    <loc>https://chahucesu.github.io/chahucesu01/</loc>
     <lastmod>2026-09-10</lastmod>
     <changefreq>monthly</changefreq>
     <priority>1.0</priority>
   </url>
   <url>
-    <loc>https://chahucesu.github.io/-/llms.txt</loc>
+    <loc>https://chahucesu.github.io/chahucesu01/llms.txt</loc>
     <lastmod>2026-09-10</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://chahucesu.github.io/-/llms-full.txt</loc>
+    <loc>https://chahucesu.github.io/chahucesu01/llms-full.txt</loc>
     <lastmod>2026-09-10</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.7</priority>

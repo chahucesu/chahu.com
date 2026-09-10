@@ -1,4 +1,4 @@
-# 茶壶测速 Chahu：网站测速、在线 Ping、DNS 与全球网络诊断平台
+# 网站测速工具有哪些？2026 年 8 款常用工具推荐
 
 [![Official Website](https://img.shields.io/badge/官网-chahu.com-0f766e)](https://www.chahu.com/)
 [![Website Speed Test](https://img.shields.io/badge/网站测速-立即检测-2563eb)](https://www.chahu.com/speedtest)
