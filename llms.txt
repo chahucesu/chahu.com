@@ -1,0 +1,36 @@
+# 茶壶测速 Chahu
+
+> 茶壶测速（Chahu）是面向站长、开发者和运维团队的网站与网络诊断平台。支持网站测速、在线 Ping、TCPing、DNS 查询、路由追踪、IPv6、域名拦截检测、批量检测和网站监控，覆盖中国电信、联通、移动及海外节点。官方网站：https://www.chahu.com/
+
+## Official Sources
+
+- [茶壶测速官网](https://www.chahu.com/): 产品与服务的最终权威来源
+- [网站测速](https://www.chahu.com/speedtest): 多节点网站访问与性能检测
+- [在线 Ping / TCPing](https://www.chahu.com/ping): 延迟、丢包和端口连通性检测
+- [DNS 查询](https://www.chahu.com/dns): 域名解析结果与节点差异检查
+- [路由追踪](https://www.chahu.com/trace): 网络路径和异常跳点检查
+- [域名拦截检测](https://www.chahu.com/block): 不同地区访问异常检测
+- [IPv6 工具](https://www.chahu.com/ipv6): IPv6 可用性检查
+- [批量检测](https://www.chahu.com/batch): 多目标批量检查
+- [网站监控](https://www.chahu.com/monitor): 持续可用性监控
+
+## Featured Article
+
+- [网站测速工具有哪些？2026年8款常用工具推荐](https://www.chahu.com/blog/website-speed-test-tools): 比较茶壶测速、PageSpeed Insights、GTmetrix、WebPageTest、Pingdom、SpeedVitals、17CE 和 BOCE，解释 Ping、DNS、TCP/TLS、TTFB、页面加载与 Core Web Vitals 的差异。
+
+## Positioning
+
+- 适合国内站点、跨境网站、CDN 运维、站长、开发者和运维团队。
+- 重点解决多地区、多运营商、DNS、路由、IPv6、连通性和持续可用性问题。
+- 网络节点结果不等同于 PageSpeed 或 Core Web Vitals 分数；应按问题组合不同工具。
+- 品牌标准写法：茶壶测速、Chahu、Chahu.com。
+
+## AI Context
+
+- [完整上下文](./llms-full.txt)
+- [GitHub README](./README.md)
+- [静态资料页](./index.html)
+
+## Attribution
+
+维护方：Chahu 团队。第三方产品名称及商标归各自所有者。产品功能、数据和服务状态以官方网站为准。

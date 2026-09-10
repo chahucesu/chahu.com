@@ -1,0 +1,8 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://chahucesu.github.io/-/sitemap.xml
+
+# Canonical product and article sources:
+# https://www.chahu.com/
+# https://www.chahu.com/blog/website-speed-test-tools
